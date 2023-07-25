@@ -1,0 +1,63 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyChainedComparisonsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoreConstantInTheMiddle" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E501" />
+          <option value="E127" />
+          <option value="E122" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+          <option value="N803" />
+          <option value="N813" />
+          <option value="N801" />
+          <option value="N806" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredNames">
+        <list>
+          <option value="range" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyTypeCheckerInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="backtrader.talib.SMA" />
+          <option value="backtrader.talib.RSI" />
+          <option value="list.*" />
+          <option value="float.__getitem__" />
+          <option value="dict.__setitem__" />
+          <option value="object.fit" />
+          <option value="get_data.CustomPandasData" />
+          <option value="tuple.*" />
+          <option value="object.dropna" />
+          <option value="object.index" />
+          <option value="object.loc" />
+          <option value="object.isnull" />
+          <option value="object.info" />
+          <option value="object.__getitem__" />
+          <option value="object.Close" />
+          <option value="object.UP_BB" />
+          <option value="object.LOW_BB" />
+          <option value="typing.Iterable.__getitem__" />
+          <option value="giotto_tda" />
+          <option value="super.fit" />
+          <option value="super.predict" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
