@@ -35,11 +35,11 @@ two_dec_places = ["NXT.L", "AHT.L", "BNZL.L", "CRDA.L", "DCC.L", "INF.L", "PSON.
                   "SGRO.L"]
 
 user = "root"
-password = "Dom23129"
-host = '127.0.0.1'
+password = "hhthahhwhshhwhtwh"
+host = '123.4.5.6'
 db = 'av_dataframe'
 
-ALPHA_VANTAGE_API_KEY = "C9KLZ7L6S0BUWEW6"
+ALPHA_VANTAGE_API_KEY = "qgqrgerqgegrqgerg"
 
 # data_obj = ALPHA_VANTAGE_DATA(symbols=tickers, api_key=ALPHA_VANTAGE_API_KEY)
 # data_obj.retrieve_data()
